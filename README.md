@@ -1,2 +1,2 @@
-# nathanschrader6.github.io-
+# nathanschrader6.github.io
 my awesome website 
