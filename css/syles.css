@@ -1,18 +1,25 @@
+
 body {background: url(../img/bg.png);}
 
-h1{text-align: center; color: white;
+h1{
+margin: 2em auto;
+text-align: center;
+color: white;
+font-size: 4em;
+
 }
 
-li{text-align: center;}
-
+p{text-align: center; color: white; font-size: 2em;}
 
 /* NAVIGATION******************************************************/
+
 li {
 
   list-style: none;
   display: inline-block;
-  text-decoration: none;
   font-size: 1.5em;
+  text-align: center;
+    text-decoration: none;
   }
 
 a:link,
