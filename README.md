@@ -4,7 +4,7 @@ My Website
 
 Credits:
 
-normalize.css necolas on Github https://github.com/necolas/normalize.css
+normalize.css by necolas on Github https://github.com/necolas/normalize.css
 
 Treehouse grid system https://raw.githubusercontent.com/vcd/web-2-starter/master/css/grid.css
 
