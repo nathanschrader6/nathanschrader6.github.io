@@ -6,7 +6,7 @@ body {
 }
 dl#simple-gallery {
   position: relative;
-  background: #222;
+  background:url(../img/bg.png); ;
   font-size: 0;
   padding: 3rem;
   padding-bottom: 8rem;
@@ -31,7 +31,6 @@ dl#simple-gallery dd {
   transition: .7s opacity;
   text-align: center;
   font-size: 1.4rem;
-  font-style: italic;
   color: #fff;
   padding-left: 0;
   width: 40%;
@@ -42,4 +41,5 @@ dl#simple-gallery dd img{
   box-shadow:0 0 8px rgba(0,0,0,0.3);
   display:block;
   margin-bottom: 1rem;
+  border: 5px solid black;
 }

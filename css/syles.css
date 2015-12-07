@@ -6,6 +6,7 @@ margin: 2em auto;
 text-align: center;
 color: white;
 font-size: 4em;
+
 }
 
 h3{
@@ -57,7 +58,8 @@ li {
   font-size: 3em;
   text-align: center;
     text-decoration: none;
-   }
+   padding: 8px;
+}
 
 a:link,
 a:visited{
