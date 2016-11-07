@@ -3,14 +3,3 @@
 My Website
 
 Credits:
-
-normalize.css by necolas on Github https://github.com/necolas/normalize.css
-
-Treehouse grid system https://raw.githubusercontent.com/vcd/web-2-starter/master/css/grid.css
-
-portfolio gallery forked from Dudley Storey http://codepen.io/dudleystorey/pen/rBnHl
-
-Photos of me: Tina Schrader
-
-Photos of my projects: Me
-
