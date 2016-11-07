@@ -1,3 +1,6 @@
-body {background: black}
-h1 {color: white; text-align: center; font-size: 30rem; padding: 8rem}
-p {color: white; text-align: center; font-size: 7rem }
+body {background-image: url(../img/cork-wallet.png)}
+h1 {color: #009163; text-align: center; font-size: 7rem; font-family: 'Bungee Hairline', cursive;}
+h3 {color: #009163; text-align: center; font-size: 4rem; font-family: 'Bungee Hairline', cursive; padding: 4rem;}
+p {color: #009163; text-align: center; font-size: 3rem; font-family: 'Bungee Hairline', cursive; }
+img{width: 45%; height: 45%;}
+img.icons {width: 20px; height: 20px;}
