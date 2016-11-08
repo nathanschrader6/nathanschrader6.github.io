@@ -6,3 +6,5 @@ a:visited {color: #8c8577; text-align: center; font-size: 4rem; font-family: 'Am
 a:hover {color: #00C1FF; text-align: center; font-size: 5rem; font-family: 'Amatic SC', cursive; padding: 4rem; padding-left: 11rem; text-decoration: none; transition: all 1s; }
 p {color: #8c8577; text-align: center; font-size: 5rem; font-family: 'Amatic SC', cursive;}
 li{color: #8c8577; text-align: center; font-size: 4rem; font-family: 'Amatic SC', cursive;}
+button{background-color:#8c8577;font-family: 'Amatic SC', cursive; font-size: 3rem; transition: all 1s; }
+button:hover {color: #00C1FF; text-align: center; font-size: 4rem;font-family: 'Amatic SC', cursive;transition: all 1s; }
