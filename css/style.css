@@ -1,6 +1,5 @@
-body {background-image: url(../img/cork-wallet.png)}
-h1 {color: #009163; text-align: center; font-size: 7rem; font-family: 'Bungee Hairline', cursive;}
-h3 {color: #009163; text-align: center; font-size: 4rem; font-family: 'Bungee Hairline', cursive; padding: 4rem;}
-p {color: #009163; text-align: center; font-size: 3rem; font-family: 'Bungee Hairline', cursive; }
-img{width: 45%; height: 45%;}
-img.icons {width: 20px; height: 20px;}
+body {background-image: url(../img/textured_paper.png)}
+h1 {color: #b5915f; text-align: center; font-size: 14rem; font-family: 'Amatic SC', cursive;}
+h3 {color: #b5915f; text-align: center; font-size: 7rem; font-family: 'Amatic SC', cursive; padding: 4rem;}
+p {color: #b5915f; text-align: center; font-size: 5rem; font-family: 'Amatic SC', cursive;}
+li{color: #b5915f; text-align: center; font-size: 4rem; font-family: 'Amatic SC', cursive;}
