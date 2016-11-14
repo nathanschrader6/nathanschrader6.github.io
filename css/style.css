@@ -9,7 +9,8 @@ h1 {color: white;
   font-size: 7rem;
   font-family: 'Share Tech Mono',
   monospace;
-  background-color:rgba(0,0,0,0.8);}
+  background-color:rgba(0,0,0,0.8);
+}
 
 h3 {color: white;
   text-align: center;
@@ -64,5 +65,5 @@ button:hover {color: #00C1FF;
    font-size: 4rem;
    font-family: 'Amatic SC', cursive;
    transition: all 1s; }
-.devider{ height: 30px; width: auto;}
+.devider{ height: 60px; width: auto;}
 .big_devider{ height: 300px; width: auto;}
