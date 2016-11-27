@@ -1,15 +1,10 @@
-body {background-image: url(../img/me2.jpg);
-  background-size:100% 100%;
-  background-repeat: no-repeat;
-  background-position: right top;
-  background-attachment: fixed;
+body {background-image: url(../img/binding_dark.png);
 }
 h1 {color: white;
   text-align: center;
   font-size: 7rem;
   font-family: 'Share Tech Mono',
   monospace;
-  background-color:rgba(0,0,0,0.8);
 }
 
 h3 {color: white;
@@ -17,27 +12,26 @@ h3 {color: white;
   font-size: 4rem;
   font-family: 'Share Tech Mono', monospace;
   padding: 4rem;
-  background-color:rgba(0,0,0,0.8);}
+  }
 
 a:link {color: white;
   text-align: center;
   font-size: 4rem;
-  font-family: 'Amatic SC', cursive;
+  font-family:'Share Tech Mono', monospace;
   text-decoration: none;
-  transition: all 1s;
-  background-color:rgba(0,0,0,0.8);}
+  transition: all 1s;}
 
 a:visited {color: white;
   text-align: center;
   font-size: 4rem;
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Share Tech Mono', monospace;
    text-decoration: none;
    transition: all 1s;}
 
 a:hover {color: #00C1FF;
   text-align: center;
-  font-size: 5rem;
-   font-family: 'Amatic SC', cursive;
+  font-size: 4rem;
+   font-family:'Share Tech Mono', monospace;
     padding-left: 11rem;
      text-decoration: none;
       transition: all 1s; }
@@ -46,34 +40,25 @@ p {color: white;
   text-align: center;
   font-size: 2rem;
    font-family: 'Share Tech Mono', monospace;
-    background-color:rgba(0,0,0,0.8);}
+ /*background-color:rgba(0,0,0,0.8);*/}
 
 li{color: white;
    text-align: left;
    font-size: 2rem;
    font-family: 'Share Tech Mono', monospace;
-   background-color:rgba(0,0,0,0.8);}
+}
 
 button{background-color:rgba(0,0,0,0.8);
   color: white;
-   font-family: 'Amatic SC', cursive;
+   font-family: 'Share Tech Mono', monospace;
     font-size: 3rem;
     transition: all 1s; }
 
 button:hover {color: #00C1FF;
   text-align: center;
    font-size: 4rem;
-   font-family: 'Amatic SC', cursive;
+   font-family:'Share Tech Mono', monospace;
    transition: all 1s; }
+   
 .devider{ height: 60px; width: auto;}
 .big_devider{ height: 300px; width: auto;}
-
-/*
-TO DO LIST:
-
-more graphics
-update couses style
-
-
-
-*/
